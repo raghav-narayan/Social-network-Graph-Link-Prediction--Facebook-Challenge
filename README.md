@@ -7,4 +7,4 @@ Social network Graph Link Prediction -Facebook Challenge
 
 2. Feature engineered dot product between sourse nodesvd and destination node svd features.
 
-3.Hyper-param tuned for XG boost
+3. Hyper-param tuned for XG boost
